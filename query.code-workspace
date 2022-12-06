@@ -1,0 +1,21 @@
+{
+    "folders": [
+		{
+			"name": "query",
+			"path": "D:/Download/CV_HW3-main/CV_HW3-main/query"
+		},
+		{
+			"name": "images",
+			"path": "D:/Download/CV_HW3-main/CV_HW3-main/images"
+		},
+		{
+			"name": "dataset",
+			"path": "D:/Download/CV_HW3-main/CV_HW3-main/dataset"
+		},
+		{
+			"name": "HW3",
+			"path": "."
+		}
+	],
+    "settings": {}
+}
